@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: ML_Projects
-Version: 0.1
-Author: Hamza Yaseen
-Author-email: hamzayaseen614268@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: matplotlib
-Requires-Dist: seaborn
