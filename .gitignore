@@ -1,1 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.out
+*.err
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.swp
+
+# Test results
+coverage/
+*.cover
+*.py,cover
+*.pytest_cache/
+nosetests.xml
+coverage.xml
+*.codecov
+
+# Data and configuration files
+*.sqlite3
+*.db
+*.cfg
+*.ini
+*.json
+*.yaml
+*.yml
+
+# Secrets
+.env
 
